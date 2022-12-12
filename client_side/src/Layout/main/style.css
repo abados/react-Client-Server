@@ -1,0 +1,14 @@
+.headerList {
+  list-style: none;
+}
+
+.link {
+  color: black;
+  margin: 10px;
+}
+
+.navbar {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
